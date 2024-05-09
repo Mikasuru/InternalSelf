@@ -1,0 +1,18 @@
+{
+  "name": "discord-selfbot",
+  "version": "1.0.0",
+  "description": "A selfbot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Mikasuru"
+  },
+  "author": "Kukuri GTPS",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.1.4"
+  }
+}
